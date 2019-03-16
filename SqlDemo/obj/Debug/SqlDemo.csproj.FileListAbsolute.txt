@@ -1,0 +1,14 @@
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\bin\Debug\SqlDemo.exe.config
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\bin\Debug\SqlDemo.exe
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\bin\Debug\SqlDemo.pdb
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\bin\Debug\SqlLibrary.dll
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\bin\Debug\SqlLibrary.pdb
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\bin\Debug\SqlLibrary.dll.config
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.csprojAssemblyReference.cache
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.Form1.resources
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.Properties.Resources.resources
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.csproj.GenerateResource.cache
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.csproj.CoreCompileInputs.cache
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.csproj.CopyComplete
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.exe
+C:\Users\b3nj4m1n\source\repos\SqlDemo\SqlDemo\obj\Debug\SqlDemo.pdb
